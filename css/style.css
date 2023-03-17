@@ -1,0 +1,228 @@
+.padding-100 {
+    padding-top: 100px;
+}
+
+.color {
+    color: #ece7e5;
+
+}
+
+.color2 {
+    color: #f4e5df;
+}
+
+.color3 {
+    color: #26312C;
+}
+
+.padding-80 {
+    padding-top: 80px;
+}
+
+.padding-50 {
+    padding-top: 50px;
+
+}
+
+.padd-bott {
+    padding-bottom: 50px;
+
+}
+
+.padd-bott-120 {
+    padding-bottom: 100px;
+}
+
+.margin-100 {
+    margin-left: 70px;
+
+}
+
+.margin-200 {
+    margin-left: 160px;
+}
+
+.marg {
+    padding-top: 50px;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.navbar-color {
+    background-color: #ece7e5;
+}
+
+.navbar-nav li a {
+    color: #26312c;
+}
+
+/* /////////////////////////////////  3  ////////////////////////////////////////////// */
+.story {
+
+    background-color: #5d6e66;
+
+}
+
+.story2 {
+
+    background-color: #5d6e66;
+
+}
+
+/* /////////////////////////////  4  //////////////////////////////////////////////// */
+
+.link1:hover {
+    color: #b9b9b9;
+
+}
+
+/* ////////////////// 5  ///////////////////////////// */
+
+.menu {
+
+    background-color: #d8d1cf;
+}
+
+.lll {
+
+    background-color: #d8d1cf;
+}
+
+
+/* ///////////////  6  //////////////////////// */
+
+.menu3 {
+    background-color: #d8d1cf;
+
+}
+
+/* ////////////////  7  //////////////////////// */
+
+.pic {
+    background-image: url("/images/vitalii-chernopyskyi-Oxb84ENcFfU-unsplash.jpg ");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+}
+
+/* ////////////////////   8     ///////////////////////////////// */
+
+.pic2 {
+
+    background-image: url("/images/getulio-moraes-Wz3u9_GtkWc-unsplash.jpg" );
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+}
+
+
+ /* //////////////////////   10    ////////////////////////////// */
+
+.sec10 {
+    background-color: #d8d1cf;
+    color: #26312c;
+}
+
+.sss {
+    letter-spacing: 6px;
+}
+
+
+
+.accordion-button:not(.collapsed) {
+    background-color: #ad8c86 !important;
+}
+
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #26312c !important;
+}
+
+
+.sec10 input {
+    border-radius: 1px !important;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+}
+
+.form-control:focus {
+    color: #26312c;
+    background-color: transparent !important;
+    border-color: none !important;
+    outline: 0;
+    box-shadow: none !important;
+    border-bottom: 1px solid !important;
+
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: none !important;
+}
+
+.btn7 {
+    background-color: #26312c !important;
+
+    color: white !important;
+    border-radius: 1px !important;
+    padding: 5px 50px !important;
+}
+
+/* /////////////////////////  11   //////////////////////////////////////// */
+
+
+
+.sec11 .div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 700px
+}
+
+
+.sec11 {
+    background-color:#ad8c86;
+
+}
+
+
+.sec11-img {
+    height: 700px;
+    background-image: url("/images/pizza5-section-bg4.png");
+    background-position: center;
+    background-size: cover;
+}
+
+
+/* /////////////////////////////////   12    /////////////////////////////////////////////// */
+
+.foot {
+    background-color: #ad8c86;
+}
+
+.links a {
+    text-decoration: none;
+    color: #26312C;
+}
+
+.links a:hover {
+    color: #315545 !important;
+}
+
+.foot-link {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.foot-link ul li a {
+    text-decoration: none;
+    color: #26312C;
+}
+
+.foot-link ul li a:hover {
+    color: #35473f;
+}
